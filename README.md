@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Babble is a real time chat application with visually pleasing interface developed with react,scss and it employs firebase as its backend .[Check it out](https://babble-by-hrushi.netlify.app)
 ## Available Scripts
 
 In the project directory, you can run:
